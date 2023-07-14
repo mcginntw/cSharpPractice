@@ -1,0 +1,15 @@
+Y:\Users\Tristan\Desktop\Josh Hell\daythree\bin\Debug\net7.0\daythree.exe
+Y:\Users\Tristan\Desktop\Josh Hell\daythree\bin\Debug\net7.0\daythree.deps.json
+Y:\Users\Tristan\Desktop\Josh Hell\daythree\bin\Debug\net7.0\daythree.runtimeconfig.json
+Y:\Users\Tristan\Desktop\Josh Hell\daythree\bin\Debug\net7.0\daythree.dll
+Y:\Users\Tristan\Desktop\Josh Hell\daythree\bin\Debug\net7.0\daythree.pdb
+Y:\Users\Tristan\Desktop\Josh Hell\daythree\obj\Debug\net7.0\daythree.csproj.AssemblyReference.cache
+Y:\Users\Tristan\Desktop\Josh Hell\daythree\obj\Debug\net7.0\daythree.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Users\Tristan\Desktop\Josh Hell\daythree\obj\Debug\net7.0\daythree.AssemblyInfoInputs.cache
+Y:\Users\Tristan\Desktop\Josh Hell\daythree\obj\Debug\net7.0\daythree.AssemblyInfo.cs
+Y:\Users\Tristan\Desktop\Josh Hell\daythree\obj\Debug\net7.0\daythree.csproj.CoreCompileInputs.cache
+Y:\Users\Tristan\Desktop\Josh Hell\daythree\obj\Debug\net7.0\daythree.dll
+Y:\Users\Tristan\Desktop\Josh Hell\daythree\obj\Debug\net7.0\refint\daythree.dll
+Y:\Users\Tristan\Desktop\Josh Hell\daythree\obj\Debug\net7.0\daythree.pdb
+Y:\Users\Tristan\Desktop\Josh Hell\daythree\obj\Debug\net7.0\daythree.genruntimeconfig.cache
+Y:\Users\Tristan\Desktop\Josh Hell\daythree\obj\Debug\net7.0\ref\daythree.dll
