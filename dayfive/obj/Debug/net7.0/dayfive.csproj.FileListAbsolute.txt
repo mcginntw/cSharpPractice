@@ -1,0 +1,15 @@
+Y:\Users\Tristan\Desktop\Josh Hell\dayfive\bin\Debug\net7.0\dayfive.exe
+Y:\Users\Tristan\Desktop\Josh Hell\dayfive\bin\Debug\net7.0\dayfive.deps.json
+Y:\Users\Tristan\Desktop\Josh Hell\dayfive\bin\Debug\net7.0\dayfive.runtimeconfig.json
+Y:\Users\Tristan\Desktop\Josh Hell\dayfive\bin\Debug\net7.0\dayfive.dll
+Y:\Users\Tristan\Desktop\Josh Hell\dayfive\bin\Debug\net7.0\dayfive.pdb
+Y:\Users\Tristan\Desktop\Josh Hell\dayfive\obj\Debug\net7.0\dayfive.csproj.AssemblyReference.cache
+Y:\Users\Tristan\Desktop\Josh Hell\dayfive\obj\Debug\net7.0\dayfive.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Users\Tristan\Desktop\Josh Hell\dayfive\obj\Debug\net7.0\dayfive.AssemblyInfoInputs.cache
+Y:\Users\Tristan\Desktop\Josh Hell\dayfive\obj\Debug\net7.0\dayfive.AssemblyInfo.cs
+Y:\Users\Tristan\Desktop\Josh Hell\dayfive\obj\Debug\net7.0\dayfive.csproj.CoreCompileInputs.cache
+Y:\Users\Tristan\Desktop\Josh Hell\dayfive\obj\Debug\net7.0\dayfive.dll
+Y:\Users\Tristan\Desktop\Josh Hell\dayfive\obj\Debug\net7.0\refint\dayfive.dll
+Y:\Users\Tristan\Desktop\Josh Hell\dayfive\obj\Debug\net7.0\dayfive.pdb
+Y:\Users\Tristan\Desktop\Josh Hell\dayfive\obj\Debug\net7.0\dayfive.genruntimeconfig.cache
+Y:\Users\Tristan\Desktop\Josh Hell\dayfive\obj\Debug\net7.0\ref\dayfive.dll
