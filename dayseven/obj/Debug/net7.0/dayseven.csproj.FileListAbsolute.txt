@@ -1,0 +1,15 @@
+Y:\Users\Tristan\Desktop\Josh Hell\dayseven\bin\Debug\net7.0\dayseven.exe
+Y:\Users\Tristan\Desktop\Josh Hell\dayseven\bin\Debug\net7.0\dayseven.deps.json
+Y:\Users\Tristan\Desktop\Josh Hell\dayseven\bin\Debug\net7.0\dayseven.runtimeconfig.json
+Y:\Users\Tristan\Desktop\Josh Hell\dayseven\bin\Debug\net7.0\dayseven.dll
+Y:\Users\Tristan\Desktop\Josh Hell\dayseven\bin\Debug\net7.0\dayseven.pdb
+Y:\Users\Tristan\Desktop\Josh Hell\dayseven\obj\Debug\net7.0\dayseven.csproj.AssemblyReference.cache
+Y:\Users\Tristan\Desktop\Josh Hell\dayseven\obj\Debug\net7.0\dayseven.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Users\Tristan\Desktop\Josh Hell\dayseven\obj\Debug\net7.0\dayseven.AssemblyInfoInputs.cache
+Y:\Users\Tristan\Desktop\Josh Hell\dayseven\obj\Debug\net7.0\dayseven.AssemblyInfo.cs
+Y:\Users\Tristan\Desktop\Josh Hell\dayseven\obj\Debug\net7.0\dayseven.csproj.CoreCompileInputs.cache
+Y:\Users\Tristan\Desktop\Josh Hell\dayseven\obj\Debug\net7.0\dayseven.dll
+Y:\Users\Tristan\Desktop\Josh Hell\dayseven\obj\Debug\net7.0\refint\dayseven.dll
+Y:\Users\Tristan\Desktop\Josh Hell\dayseven\obj\Debug\net7.0\dayseven.pdb
+Y:\Users\Tristan\Desktop\Josh Hell\dayseven\obj\Debug\net7.0\dayseven.genruntimeconfig.cache
+Y:\Users\Tristan\Desktop\Josh Hell\dayseven\obj\Debug\net7.0\ref\dayseven.dll
