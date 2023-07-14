@@ -1,0 +1,15 @@
+Y:\Users\Tristan\Desktop\Josh Hell\daynine\obj\Debug\net7.0\daynine.csproj.AssemblyReference.cache
+Y:\Users\Tristan\Desktop\Josh Hell\daynine\obj\Debug\net7.0\daynine.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Users\Tristan\Desktop\Josh Hell\daynine\obj\Debug\net7.0\daynine.AssemblyInfoInputs.cache
+Y:\Users\Tristan\Desktop\Josh Hell\daynine\obj\Debug\net7.0\daynine.AssemblyInfo.cs
+Y:\Users\Tristan\Desktop\Josh Hell\daynine\obj\Debug\net7.0\daynine.csproj.CoreCompileInputs.cache
+Y:\Users\Tristan\Desktop\Josh Hell\daynine\bin\Debug\net7.0\daynine.exe
+Y:\Users\Tristan\Desktop\Josh Hell\daynine\bin\Debug\net7.0\daynine.deps.json
+Y:\Users\Tristan\Desktop\Josh Hell\daynine\bin\Debug\net7.0\daynine.runtimeconfig.json
+Y:\Users\Tristan\Desktop\Josh Hell\daynine\bin\Debug\net7.0\daynine.dll
+Y:\Users\Tristan\Desktop\Josh Hell\daynine\bin\Debug\net7.0\daynine.pdb
+Y:\Users\Tristan\Desktop\Josh Hell\daynine\obj\Debug\net7.0\daynine.dll
+Y:\Users\Tristan\Desktop\Josh Hell\daynine\obj\Debug\net7.0\refint\daynine.dll
+Y:\Users\Tristan\Desktop\Josh Hell\daynine\obj\Debug\net7.0\daynine.pdb
+Y:\Users\Tristan\Desktop\Josh Hell\daynine\obj\Debug\net7.0\daynine.genruntimeconfig.cache
+Y:\Users\Tristan\Desktop\Josh Hell\daynine\obj\Debug\net7.0\ref\daynine.dll
