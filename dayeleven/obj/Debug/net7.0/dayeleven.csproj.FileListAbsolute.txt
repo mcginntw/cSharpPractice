@@ -1,0 +1,15 @@
+Y:\Users\Tristan\Desktop\Josh Hell\dayeleven\bin\Debug\net7.0\dayeleven.exe
+Y:\Users\Tristan\Desktop\Josh Hell\dayeleven\bin\Debug\net7.0\dayeleven.deps.json
+Y:\Users\Tristan\Desktop\Josh Hell\dayeleven\bin\Debug\net7.0\dayeleven.runtimeconfig.json
+Y:\Users\Tristan\Desktop\Josh Hell\dayeleven\bin\Debug\net7.0\dayeleven.dll
+Y:\Users\Tristan\Desktop\Josh Hell\dayeleven\bin\Debug\net7.0\dayeleven.pdb
+Y:\Users\Tristan\Desktop\Josh Hell\dayeleven\obj\Debug\net7.0\dayeleven.csproj.AssemblyReference.cache
+Y:\Users\Tristan\Desktop\Josh Hell\dayeleven\obj\Debug\net7.0\dayeleven.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Users\Tristan\Desktop\Josh Hell\dayeleven\obj\Debug\net7.0\dayeleven.AssemblyInfoInputs.cache
+Y:\Users\Tristan\Desktop\Josh Hell\dayeleven\obj\Debug\net7.0\dayeleven.AssemblyInfo.cs
+Y:\Users\Tristan\Desktop\Josh Hell\dayeleven\obj\Debug\net7.0\dayeleven.csproj.CoreCompileInputs.cache
+Y:\Users\Tristan\Desktop\Josh Hell\dayeleven\obj\Debug\net7.0\dayeleven.dll
+Y:\Users\Tristan\Desktop\Josh Hell\dayeleven\obj\Debug\net7.0\refint\dayeleven.dll
+Y:\Users\Tristan\Desktop\Josh Hell\dayeleven\obj\Debug\net7.0\dayeleven.pdb
+Y:\Users\Tristan\Desktop\Josh Hell\dayeleven\obj\Debug\net7.0\dayeleven.genruntimeconfig.cache
+Y:\Users\Tristan\Desktop\Josh Hell\dayeleven\obj\Debug\net7.0\ref\dayeleven.dll
