@@ -1,0 +1,15 @@
+Y:\Users\Tristan\Desktop\Josh Hell\dayten\obj\Debug\net7.0\dayten.csproj.AssemblyReference.cache
+Y:\Users\Tristan\Desktop\Josh Hell\dayten\obj\Debug\net7.0\dayten.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Users\Tristan\Desktop\Josh Hell\dayten\obj\Debug\net7.0\dayten.AssemblyInfoInputs.cache
+Y:\Users\Tristan\Desktop\Josh Hell\dayten\obj\Debug\net7.0\dayten.AssemblyInfo.cs
+Y:\Users\Tristan\Desktop\Josh Hell\dayten\obj\Debug\net7.0\dayten.csproj.CoreCompileInputs.cache
+Y:\Users\Tristan\Desktop\Josh Hell\dayten\bin\Debug\net7.0\dayten.exe
+Y:\Users\Tristan\Desktop\Josh Hell\dayten\bin\Debug\net7.0\dayten.deps.json
+Y:\Users\Tristan\Desktop\Josh Hell\dayten\bin\Debug\net7.0\dayten.runtimeconfig.json
+Y:\Users\Tristan\Desktop\Josh Hell\dayten\bin\Debug\net7.0\dayten.dll
+Y:\Users\Tristan\Desktop\Josh Hell\dayten\bin\Debug\net7.0\dayten.pdb
+Y:\Users\Tristan\Desktop\Josh Hell\dayten\obj\Debug\net7.0\dayten.dll
+Y:\Users\Tristan\Desktop\Josh Hell\dayten\obj\Debug\net7.0\refint\dayten.dll
+Y:\Users\Tristan\Desktop\Josh Hell\dayten\obj\Debug\net7.0\dayten.pdb
+Y:\Users\Tristan\Desktop\Josh Hell\dayten\obj\Debug\net7.0\dayten.genruntimeconfig.cache
+Y:\Users\Tristan\Desktop\Josh Hell\dayten\obj\Debug\net7.0\ref\dayten.dll
