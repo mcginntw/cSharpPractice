@@ -1,0 +1,8 @@
+:) dotnet notes 4.25.23
+
+//How to create a new dotnet project via terminal (Makes a folder):
+dotnet new console -o *project name* 
+
+//To run, don't need the name of the file.
+dotnet run (OR) dotnet build
+
