@@ -1,0 +1,15 @@
+Y:\Users\Tristan\Desktop\Josh Hell\daytwo\bin\Debug\net7.0\daytwo.exe
+Y:\Users\Tristan\Desktop\Josh Hell\daytwo\bin\Debug\net7.0\daytwo.deps.json
+Y:\Users\Tristan\Desktop\Josh Hell\daytwo\bin\Debug\net7.0\daytwo.runtimeconfig.json
+Y:\Users\Tristan\Desktop\Josh Hell\daytwo\bin\Debug\net7.0\daytwo.dll
+Y:\Users\Tristan\Desktop\Josh Hell\daytwo\bin\Debug\net7.0\daytwo.pdb
+Y:\Users\Tristan\Desktop\Josh Hell\daytwo\obj\Debug\net7.0\daytwo.csproj.AssemblyReference.cache
+Y:\Users\Tristan\Desktop\Josh Hell\daytwo\obj\Debug\net7.0\daytwo.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Users\Tristan\Desktop\Josh Hell\daytwo\obj\Debug\net7.0\daytwo.AssemblyInfoInputs.cache
+Y:\Users\Tristan\Desktop\Josh Hell\daytwo\obj\Debug\net7.0\daytwo.AssemblyInfo.cs
+Y:\Users\Tristan\Desktop\Josh Hell\daytwo\obj\Debug\net7.0\daytwo.csproj.CoreCompileInputs.cache
+Y:\Users\Tristan\Desktop\Josh Hell\daytwo\obj\Debug\net7.0\daytwo.dll
+Y:\Users\Tristan\Desktop\Josh Hell\daytwo\obj\Debug\net7.0\refint\daytwo.dll
+Y:\Users\Tristan\Desktop\Josh Hell\daytwo\obj\Debug\net7.0\daytwo.pdb
+Y:\Users\Tristan\Desktop\Josh Hell\daytwo\obj\Debug\net7.0\daytwo.genruntimeconfig.cache
+Y:\Users\Tristan\Desktop\Josh Hell\daytwo\obj\Debug\net7.0\ref\daytwo.dll
