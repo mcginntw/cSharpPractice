@@ -1,0 +1,15 @@
+Y:\Users\Tristan\Desktop\Josh Hell\daytwelve\obj\Debug\net7.0\daytwelve.csproj.AssemblyReference.cache
+Y:\Users\Tristan\Desktop\Josh Hell\daytwelve\obj\Debug\net7.0\daytwelve.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Users\Tristan\Desktop\Josh Hell\daytwelve\obj\Debug\net7.0\daytwelve.AssemblyInfoInputs.cache
+Y:\Users\Tristan\Desktop\Josh Hell\daytwelve\obj\Debug\net7.0\daytwelve.AssemblyInfo.cs
+Y:\Users\Tristan\Desktop\Josh Hell\daytwelve\obj\Debug\net7.0\daytwelve.csproj.CoreCompileInputs.cache
+Y:\Users\Tristan\Desktop\Josh Hell\daytwelve\bin\Debug\net7.0\daytwelve.exe
+Y:\Users\Tristan\Desktop\Josh Hell\daytwelve\bin\Debug\net7.0\daytwelve.deps.json
+Y:\Users\Tristan\Desktop\Josh Hell\daytwelve\bin\Debug\net7.0\daytwelve.runtimeconfig.json
+Y:\Users\Tristan\Desktop\Josh Hell\daytwelve\bin\Debug\net7.0\daytwelve.dll
+Y:\Users\Tristan\Desktop\Josh Hell\daytwelve\bin\Debug\net7.0\daytwelve.pdb
+Y:\Users\Tristan\Desktop\Josh Hell\daytwelve\obj\Debug\net7.0\daytwelve.dll
+Y:\Users\Tristan\Desktop\Josh Hell\daytwelve\obj\Debug\net7.0\refint\daytwelve.dll
+Y:\Users\Tristan\Desktop\Josh Hell\daytwelve\obj\Debug\net7.0\daytwelve.pdb
+Y:\Users\Tristan\Desktop\Josh Hell\daytwelve\obj\Debug\net7.0\daytwelve.genruntimeconfig.cache
+Y:\Users\Tristan\Desktop\Josh Hell\daytwelve\obj\Debug\net7.0\ref\daytwelve.dll
